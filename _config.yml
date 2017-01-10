@@ -26,7 +26,8 @@ github_username:  johnlauber
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: cayman
+
 gems:
   - jekyll-feed
 exclude:
