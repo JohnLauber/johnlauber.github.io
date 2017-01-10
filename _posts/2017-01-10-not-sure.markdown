@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Not sure what I'm doing here"
-date:   2017-01-10 11:00:16 -0500
+date:   2017-01-10 13:00:16 -0500
 categories: jekyll update
 ---
 I'm not sure what I'm doing here. I wanted to play with GitHub pages and Jekyll, but I'm still not sure what I plan on posting here. I may utilize my custom johnlauber.com domain, that I never used except for email. Maybe I'll just post code related items here, as that would make sense.
